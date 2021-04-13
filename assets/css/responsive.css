@@ -1,0 +1,60 @@
+@media screen and (max-width: 940px){
+        header nav{ width: 70%;}
+        .site{width:60%;}
+        .link{width:40%;}
+    }
+@media screen and (max-width: 860px){
+    header .centrira{flex-direction: column;}
+    header nav{width:100%;}
+    .text{width:34%;}
+    .me{width:40%}
+    .text h2{font-size:35px;}
+    .text p{font-size: 30px;}
+    .skill{width:67%;}
+    .site{width:70%;}
+    .site p{font-size: 15px;}
+    .submit{width:40%;}
+    .contacts{flex-direction: column;align-items: center;}
+    .menu{display: flex;width:50%;justify-content: space-around;}
+    form{margin:15px;}
+    .info h3{padding:0px;}
+    .info ul li{padding:5px 0px 5px 0px;}
+    .info{width:45%;}
+}
+@media screen and (max-width: 625px){
+    nav ul li{display:none;}
+    .dugme{display:block; margin: 5px auto;}
+    nav:hover ul{display: block;border-radius: 5px;width:90%;margin: 0px auto;background: rgba(0,0,0,0.9);}
+    nav:hover ul li{display: block;padding: 4px 0px;}
+    header nav ul li{border-bottom: 1px solid #818181;}
+    .text,.me{width:50%;}
+    .text h2{font-size:30px;}
+    .text p{font-size: 25px;}
+    .heading h2{padding:20px;}
+    .profil p{padding:15px; font-size: 15px;}
+    .skill i{font-size:70px;}
+    .skill h3{ font-size:20px;}
+    .skill p{font-size: 15px;}
+    .skill{padding:30px;}
+    .site{width:80%;}
+    .site p{font-size:10px;}
+    .submit{width:45%;}
+    form{width:45%;}
+    .info{width:40%;}
+    .menu{width:80%;}
+    .footer{flex-direction: column;text-align: center;padding:15px 0px 5px 0px;}
+    .link{width:100%;margin-bottom:10px;}
+    .footer p{width:100%;}
+}
+
+@media screen and (max-width:511px){
+    .submit{width:60%;}
+    form{width:65%;}
+    .info{width:55%;}
+    .menu{width:100%;}
+    
+}
+@media screen and (max-width:376px){
+    .info{width:70%;}
+    form{width:80%;}
+}
