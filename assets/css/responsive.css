@@ -39,7 +39,7 @@
     .site{width:90%;}
     .site p{font-size:15px;}
     .submit{width:45%;}
-    form{width:45%;}
+    form{width:45%;text-align:center;}
     .info{width:40%;}
     .menu{width:80%;}
     .footer{flex-direction: column;text-align: center;padding:15px 0px 5px 0px;}
