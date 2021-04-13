@@ -27,7 +27,7 @@
     nav:hover ul{display: block;border-radius: 5px;width:90%;margin: 0px auto;background: rgba(0,0,0,0.9);}
     nav:hover ul li{display: block;padding: 4px 0px;}
     header nav ul li{border-bottom: 1px solid #818181;}
-    .text,.me{width:50%;}
+    .text,.me{width:60%;}
     .text h2{font-size:30px;}
     .text p{font-size: 25px;}
     .heading h2{padding:20px;}
