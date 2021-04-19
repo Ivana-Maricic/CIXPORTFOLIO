@@ -15,11 +15,11 @@
     .site p{font-size: 15px;}
     .submit{width:40%;}
     .contacts{flex-direction: column;align-items: center;}
-    .menu{display: flex;width:50%;justify-content: space-around;}
+    .menu{display: flex;width:50%;justify-content: space-around;margin:15px 0px 15px 0px;}
     form{margin:15px;}
     .info h3{padding:0px;}
     .info ul li{padding:5px 0px 5px 0px;}
-    .info{width:45%;}
+    .info{width:45%;margin:15px;}
 }
 @media screen and (max-width: 625px){
     nav ul li{display:none;}
