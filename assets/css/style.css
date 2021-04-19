@@ -194,6 +194,9 @@ textarea{
     font-size: 25px;
     padding:10px;
 }
+.menu li{
+    padding-bottom:15px;
+}
 .menu li a{
     font-size: 18px;
 }
