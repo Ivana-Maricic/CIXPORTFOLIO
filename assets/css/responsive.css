@@ -52,7 +52,7 @@
 @media screen and (max-width:511px){
     .submit{width:60%;}
     form{width:65%;}
-    .info{width:55%;}
+    .info{width:55%; word-wrap: break-word;}
     .menu{width:100%;}
     
 }
